@@ -12,36 +12,12 @@ color:
   secondary: fec503  
   secondary-dark: 333
 
-# Team names, titles and social links
-people:
-- name: Timo Niemi
-  pic: 1
-  position: Lead Vocals, Lyrics
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Juha Niemi
-  pic: 2
-  position: Composing, Producer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/thebrothergood
   - title: facebook
-    url:
+    url: http://www.facebook.com/brothergoodmusic
 
 # Postal address (add as many lines as necessary)
 address:
